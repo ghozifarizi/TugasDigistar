@@ -1,4 +1,4 @@
-
+// code untuk mencoba function
 const findMax = require('./max'); 
 
 // contoh 
