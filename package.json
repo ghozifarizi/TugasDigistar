@@ -1,0 +1,26 @@
+{
+  "name": "find-max-function",
+  "version": "1.0.0",
+  "description": "A simple function to find maximum in array",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^1.3.1",
+    "moment": "^2.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TugasDigistar.git"
+  },
+  "keywords": [
+    "find",
+    "max",
+    "array",
+    "function"
+  ],
+  "author": "Ghozi",
+  "license": "ISC"
+}
