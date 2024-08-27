@@ -1,5 +1,5 @@
 // code untuk mencoba function
-const findMax = require('./max'); 
+const findMax = require('./index'); 
 
 // contoh 
 const bilangan = [3, 5, 7, 2, 8];
